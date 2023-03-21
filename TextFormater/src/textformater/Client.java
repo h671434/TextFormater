@@ -16,7 +16,7 @@ public class Client {
 	}
 
 	private static void createAndShowGui() {
-		UserInterface frame = new UserInterface("TabExporter");
+		UserInterface frame = new UserInterface("TextFormater");
 
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(1200, 800);
